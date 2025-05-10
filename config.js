@@ -54,7 +54,7 @@ module.exports = {
     OWNER_NUMBER: process.env.OWNER_NUMBER || "50932844372",
     OWNER_NAME: process.env.OWNER_NAME || "➺MR AFRIKEN࿐",
     READ_CMD: process.env.READ_CMD || "true",
-    BOT_NAME: process.env.BOT_NAME || "➺MR AFRIKEN",
+    BOT_NAME: process.env.BOT_NAME || "➺MR AFRIKEN✔",
     STATUS_REPLY: process.env.STATUS_REPLY || "`➺үσυя sтαтυs sεεη נυsт ησω вү MR AFRIKEN UNLOCKER PRO`",
     STATUS_REACT: process.env.STATUS_REACT || "true",
     ANTI_VV: process.env.ANTI_VV || "true",// true for anti once view 
